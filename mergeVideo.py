@@ -1,6 +1,5 @@
 import os
 import glob
-import subprocess
 
 mp4_list = glob.glob('./*.mp4')
 
